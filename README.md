@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Istiak Morsalin</h1>
+<h1 align="center">Hi 👋, I'm  Istiak </h1>
 <h3 align="center">A passionate Senior Software Engineer</h3>
 
 - 🎓   Completed bachelor's degree in Computer Science and Engineering from Khulna University of Engineering and Technology.
@@ -12,10 +12,12 @@
 - 📝 I regularly write articles on [https://iammorsalin.wordpress.com/](https://iammorsalin.wordpress.com/)
 
 - 📫 How to reach me **anik.cse@gmail.com**
+-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istiakmorsalin&label=Profile%20views&color=0e75b6&style=flat" alt="istiakmorsalin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=istiakmorsalin" alt="istiakmorsalin" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=istiakmorsalin&theme=onedark)](https://github.com/istiakmorsalin/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
