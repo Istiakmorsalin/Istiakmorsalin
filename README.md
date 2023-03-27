@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Exploring new technologies and developing software solutions and mobile app architecture.**
 
-- 📝 I regularly write articles on [https://iammorsalin.wordpress.com/](https://iammorsalin.wordpress.com/)
+- 📝 I regularly write articles on [https://iammorsalin.wordpress.com/](https://iammorsalin.wordpress.com/) & https://istiakmorsalin.medium.com/
 
 - 📫 How to reach me **anik.cse@gmail.com**
 
